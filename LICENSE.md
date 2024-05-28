@@ -1,4 +1,4 @@
-Copyright (c) 2024 
+Copyright (c) 2024 Ömer Kaan KESKİNER & Furkan Talha ÇELİK
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
