@@ -6,16 +6,14 @@ displayed on Ubuntu Terminal and Windows' CMD.
 
 # What These Codes Actually Do?
 
-## Cinema.cpp
-Everything
-
-
 ## Cinema.h
-Necessary header file for functions to play the movies and display indormations about the movies.
+Necessary header file for functions to play the movies and display indormations about the movies. The funtions are declared in the "Cinema" class as public.
 
+## Cinema.cpp
+This code file includes every functions defined in the header file with the same name. In this file; booking seats, display of the seats, movies, funtions to play the movie by reading the necessary file are written.
 
 ## main.cpp
-Main function for the system.
+Main file for the system. Just starts the main function.
 
 ***
 # Movies
@@ -136,7 +134,7 @@ If you have any questions or suggestions, you can contact us from keskineromerka
 ## Authors and acknowledgment
 This project is made as a lecture project, by;
 - Furkan Talha ÇELİK ()
-- Ö. Kaan KESKİNER (keskineromer9)
+- Ö. Kaan KESKİNER (@keskineromer9)
 
 This README is written by Ö. Kaan KESKİNER.
 
@@ -173,7 +171,7 @@ This README is written by Ö. Kaan KESKİNER.
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                                              
 
 ## License
-For open source projects, say how it is licensed.
+Look for the LICENSE.md 
 
 ## Project status
 Even tho this project is finished, the movies can be added or upgraded so stay tuned.
