@@ -137,7 +137,6 @@ The never coming season for the manga/anime One Punch Man is being compressed in
 ***
 
 # INSTALLATION:
-Just download it and execute it you lazy a**.
 
 
 ##  GETTING FILES FROM GIT:
