@@ -178,8 +178,8 @@ If you have any questions or suggestions, you can contact us from keskineromerka
 
 ## Authors and acknowledgment
 This project is made as a lecture project, by;
-- Furkan Talha ÇELİK ()
-- Ö. Kaan KESKİNER (@keskineromer9)
+- Furkan Talha ÇELİK
+- Ö. Kaan KESKİNER (@pisanzapra)
 
 This README is written by Ö. Kaan KESKİNER.
 
