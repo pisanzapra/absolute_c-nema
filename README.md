@@ -134,8 +134,8 @@ If you have any questions or suggestions, you can contact us from keskineromerka
 
 ## Authors and acknowledgment
 This project is made as a lecture project, by;
-- Furkan Talha ÇELİK ( @Ragnell20 )
-- Ömer Kaan KESKİNER ( @pisanzapra )
+- Furkan Talha ÇELİK ([@Ragnell20](https://github.com))
+- Ömer Kaan KESKİNER ([@pisanzapra](https://github.com))
 
 This README is written by Ömer Kaan KESKİNER.
 <img width="1117" height="1408" alt="1bbddc9d-77a6-4f0b-ac4a-91ac47ab9f1f" src="https://github.com/user-attachments/assets/6f3a6f4b-8aba-4d8f-b376-f69d566c8572" />
