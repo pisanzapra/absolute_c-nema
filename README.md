@@ -1,7 +1,7 @@
 <img width="1059" height="1485" alt="79b51c94-3483-458d-be28-cdefb748064d" src="https://github.com/user-attachments/assets/b8599b93-da33-4c89-af86-789d6fb6fe59" />
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-# C-Nema
+# Absolute C-Nema
 
 This git is about a simple simulation for a cinema hall. User can define the number of people, seats and the movie. Movies can be
 displayed on Ubuntu Terminal and Windows' CMD.  
